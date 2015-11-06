@@ -1,0 +1,26 @@
+{
+  "name": "wundermilk",
+  "description": "Convert your tasks from RTM (remember the milk) to Wunderlist",
+  "author": "Christian Zangl",
+  "version": "0.0.1",
+  "keywords": [
+    "rtm",
+    "rememberthemilk",
+    "wunderlist"
+  ],
+  "dependencies": {
+    "ical-toolkit": "^1.0.9"
+  },
+  "bin": {
+    "wundermilk": "./convert.js"
+  },
+  "homepage": "https://github.com/laktak/wundermilk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laktak/wundermilk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/laktak/wundermilk/issues"
+  },
+  "license": "MIT"
+}
