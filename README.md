@@ -51,6 +51,8 @@ futures (17)
 [..]
 ```
 
+If you get an error see [#1](https://github.com/laktak/wundermilk/issues/1) for a possible solution.
+
 ## Step 4
 
 Go to https://www.wunderlist.com, again in your favorite browser.
